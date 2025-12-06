@@ -1,1 +1,20 @@
+{
+  "packStructureVersion": 27,
+  "title": "Caixeiro Viajante Completo",
+  "guid": "53bdc596-8fa7-4ccc-8aa2-bd13ee990750",
+  "descriptionRussian": "Торговец-путешественник теперь продает все свои редкие и ценные товары постоянно. Больше не нужно ждать, чтобы получить нужный вам предмет!",
+  "descriptionEnglish": "The Traveling Merchant now sells all his rare and valuable items permanently! No more waiting to get the item you need.",
+  "authors": [
+    {
+      "file": "1.png",
+      "name": "Saraiva",
+      "link": "",
+      "icon_height": 70
+    }
+  ],
+  "version": 6,
+  "predefined_tags": [
+    31
+  ]
+}
 
